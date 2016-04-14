@@ -13,5 +13,5 @@ import 'bootstrap4-webpack-package';
   templateUrl: 'client/app.html',
   directives: [Alert]
 })
-class Socially {}
-bootstrap(Socially);
+class App {}
+bootstrap(App);
